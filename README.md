@@ -47,7 +47,7 @@ It was created to practice responsive web design, HTML structure, CSS styling, J
 
 ## Live Demo
 
-[View Genre Museum](YOUR-GITHUB-PAGES-LINK)
+[View Genre Museum](https://github.io)
 
 ## Author
 
